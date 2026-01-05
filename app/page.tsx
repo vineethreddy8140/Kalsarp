@@ -5,6 +5,7 @@ export default function HomePage() {
   const sections = [
     { id: "overview", title: "About Trimbakeshwar" },
     { id: "temple", title: "Trimbakeshwar Temple" },
+    { id: "services", title: "Pooja & Ritual Services" },
     { id: "kushavarta", title: "Kushavarta" },
     { id: "bramhagiri", title: "Bramhagiri" },
     { id: "gangadwar", title: "Gangadwar" },
